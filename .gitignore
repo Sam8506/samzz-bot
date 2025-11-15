@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Env files
+.env
+
+# Local vector store
+
+data/
