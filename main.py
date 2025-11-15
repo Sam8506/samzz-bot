@@ -18,7 +18,7 @@ load_dotenv()
 ALLOWED_ORIGINS = [
     "https://samirpatel.in",
     "https://www.samirpatel.in",
-    # "http://localhost:3000",
+    "http://localhost:3000",
 ]
 app = FastAPI(
     title="Samir Patel Portfolio Chatbot",
