@@ -11,7 +11,7 @@ pydantic==2.5.0
 python-multipart==0.0.6
 
 # Required explicitly for Render because sentence-transformers needs it
-torch==2.0.1
+torch==2.5.0
 transformers==4.31.0
 
 # Prevent protobuf errors
